@@ -1,4 +1,5 @@
 # Yosemitech_Y504_Dissolved_Oxygen_Sensor
+- Video tutorial on how to use UART to RS485 converter: https://youtu.be/KCNV3e-zXdE
 - Reference:
   + Yosemitech Y504 Dissolved Oxygen Sensor: https://envirodiy.github.io/ModularSensors/group__sensor__y504.html#sensor_y504_examples
   + https://envirodiy.github.io/ModularSensors/group__sensor__y504.html
