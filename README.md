@@ -10,6 +10,11 @@
     -	Send data to Thingspeak for remote monitoring via ESP32 module and WIFI.
    - Connection diagram: ![DO_CONNECTION](https://github.com/BuiNgocLong01/Yosemitech_Y504_Dissolved_Oxygen_Sensor/assets/93063745/264f7f94-e82c-4a02-aa19-2d17274fbac1)
    - Pinout: ![Pinout_DO](https://github.com/BuiNgocLong01/Yosemitech_Y504_Dissolved_Oxygen_Sensor/assets/93063745/471e5daa-a1bd-4826-a217-421e0b83cb47)
+   - Results:
+     - ThingSpeak API: ![image](https://github.com/BuiNgocLong01/Yosemitech_Y504_Dissolved_Oxygen_Sensor/assets/93063745/fd6e67b0-ce73-49bb-8496-409ef9da1cb6)
+     - SD Card: ![z5267207482797_119ae0d6ab951a3f3df69892cb50034c](https://github.com/BuiNgocLong01/Yosemitech_Y504_Dissolved_Oxygen_Sensor/assets/93063745/a74cc89e-b1f6-4471-b233-989142e78bc7)
+
+
 2. DO System using Arduino Nano
 - Video tutorial on how to use UART to RS485 converter: https://youtu.be/KCNV3e-zXdE
 - Reference:
