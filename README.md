@@ -1,6 +1,6 @@
 # Yosemitech Y504 Dissolved Oxygen Sensor
-Author: Long Bui
-Email: long.bui_ra@vgu.edu.vn
+   Author: Long Bui
+   Email: long.bui_ra@vgu.edu.vn
 1. DO_System folder: Using ESP32
    - Block Diagram
    ![DO_SYStem](https://github.com/BuiNgocLong01/Yosemitech_Y504_Dissolved_Oxygen_Sensor/assets/93063745/30d05209-8912-4521-9fb7-692ca1b1d1aa)
