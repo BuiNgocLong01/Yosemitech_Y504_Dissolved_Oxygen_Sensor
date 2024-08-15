@@ -1,0 +1,2 @@
+Date,Time,DOValue,TempValue
+2024-01-15,13-56-10,0.00,0.00
